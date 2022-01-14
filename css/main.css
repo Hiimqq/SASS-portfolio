@@ -212,6 +212,15 @@
   margin-bottom: 2rem;
 }
 
+.about__bio {
+  width: 80%;
+  text-align: center;
+}
+
+.about__bio .text-secondary {
+  padding-bottom: 1rem;
+}
+
 body {
   background: #272727;
   color: #fff;
