@@ -204,6 +204,10 @@ li {
   display: inline;
 }
 
+.text-secondary {
+  color: #ff652f;
+}
+
 header {
   position: fixed;
   z-index: 2;
