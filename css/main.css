@@ -107,6 +107,10 @@ a {
   text-decoration: none;
 }
 
+li {
+  display: inline;
+}
+
 header {
   position: fixed;
   z-index: 2;
